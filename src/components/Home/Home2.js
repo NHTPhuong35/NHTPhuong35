@@ -7,7 +7,7 @@ import {
   AiOutlineMail,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn,FaFacebook  } from "react-icons/fa";
+import { FaFacebook  } from "react-icons/fa";
 
 function Home2() {
   return (

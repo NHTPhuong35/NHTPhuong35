@@ -3,16 +3,12 @@ import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiPython,
   DiGit,
   DiJava,
 } from "react-icons/di";
 import {
   SiAndroid,
   SiMysql,
-  SiSqlite,
   SiCsharp, SiHtml5, SiCss3, SiMicrosoftsqlserver 
 } from "react-icons/si";
 
@@ -30,16 +26,7 @@ function Techstack() {
         <SiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiAndroid />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSqlite />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMicrosoftsqlserver />
@@ -55,9 +42,6 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiCsharp />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
