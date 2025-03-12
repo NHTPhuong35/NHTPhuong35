@@ -310,6 +310,13 @@ button:focus {
   padding-top: 9em !important;
 }
 
+.myAvtar .img-fluid{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%; /* Làm tròn ảnh */
+  object-fit: cover; /* Cắt ảnh vừa với khung tròn */
+}
+
 @media (max-width: 767px) {
   .myAvtar {
     padding-top: 2em !important;
