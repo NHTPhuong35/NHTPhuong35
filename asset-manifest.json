@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/NHTPhuong35/static/css/main.675bfb7a.css",
-    "main.js": "/NHTPhuong35/static/js/main.56c8a254.js",
+    "main.css": "/NHTPhuong35/static/css/main.b611604d.css",
+    "main.js": "/NHTPhuong35/static/js/main.b5dcf9d5.js",
     "static/js/415.4d6acbeb.chunk.js": "/NHTPhuong35/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/NHTPhuong35/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar_girl.png": "/NHTPhuong35/static/media/avatar_girl.d68cb99168246e8bfce0.png",
     "static/media/imgShirtSales.png": "/NHTPhuong35/static/media/imgShirtSales.31311177381886eb9de9.png",
     "static/media/NguyenHoangThanhPhuong_CV.pdf": "/NHTPhuong35/static/media/NguyenHoangThanhPhuong_CV.887c0956e39282863316.pdf",
     "static/media/home-main.svg": "/NHTPhuong35/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/NHTPhuong35/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/imBookstore.png": "/NHTPhuong35/static/media/imBookstore.35ac8bc20d791ff7fa88.png",
     "static/media/home-bg.jpg": "/NHTPhuong35/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/NHTPhuong35/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/NHTPhuong35/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/NHTPhuong35/index.html",
-    "main.675bfb7a.css.map": "/NHTPhuong35/static/css/main.675bfb7a.css.map",
-    "main.56c8a254.js.map": "/NHTPhuong35/static/js/main.56c8a254.js.map",
+    "main.b611604d.css.map": "/NHTPhuong35/static/css/main.b611604d.css.map",
+    "main.b5dcf9d5.js.map": "/NHTPhuong35/static/js/main.b5dcf9d5.js.map",
     "415.4d6acbeb.chunk.js.map": "/NHTPhuong35/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/NHTPhuong35/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.675bfb7a.css",
-    "static/js/main.56c8a254.js"
+    "static/css/main.b611604d.css",
+    "static/js/main.b5dcf9d5.js"
   ]
 }
