@@ -3,7 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
   AiOutlineMail,
-  AiFillInstagram,
 } from "react-icons/ai";
 import { FaFacebook } from "react-icons/fa";
 
@@ -17,7 +16,7 @@ function Footer() {
           <h3>Nguyen Hoang Thanh Phuong</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>© {year}</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -49,16 +48,6 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <AiOutlineMail />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.instagram.com/phnnq.nguien/"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillInstagram />
               </a>
             </li>
           </ul>

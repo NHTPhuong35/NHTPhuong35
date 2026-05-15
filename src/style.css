@@ -445,8 +445,10 @@ button:focus {
   padding: 0 !important;
 }
 
-.blockquote-footer {
-  color: #a588c0 !important;
+.about-body {
+  padding-bottom: 200px !important;
+  font-size: 1.2em !important;
+  text-align: justify;
 }
 /* --------- */
 /* Projects */

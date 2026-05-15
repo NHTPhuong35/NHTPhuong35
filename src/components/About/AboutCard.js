@@ -6,35 +6,12 @@ function AboutCard() {
   return (
     <Card className="quote-card-view">
       <Card.Body>
-        <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple"> Nguyen Hoang Thanh Phuong </span>
-            from <span className="purple"> Ho Chi Minh City, Vietnam.</span>
+          <p style={{ textAlign: "justify" }} className="about-body mb-0">
+            Hi, I’m <span className="purple"> Nguyen Hoang Thanh Phuong </span>
+            a final-year Information Technology student at Saigon University.
             <br />
-            I am currently a third year student at Saigon University.
-            <br />
-            I am studying information technology, majoring in software engineering.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            <br />I enjoy learning new technologies, solving real-world problems, and continuously improving my software development skills. I am currently seeking opportunities to gain practical experience, grow professionally, and contribute to meaningful projects in a collaborative environment.
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Reading comics
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Watching movies
-            </li>
-          </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
-        </blockquote>
       </Card.Body>
     </Card>
   );
