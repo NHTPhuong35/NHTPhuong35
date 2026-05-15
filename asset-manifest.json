@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NHTPhuong35/static/css/main.343a0ccf.css",
+    "main.js": "/NHTPhuong35/static/js/main.7d0e4494.js",
+    "static/js/415.4d6acbeb.chunk.js": "/NHTPhuong35/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/NHTPhuong35/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar_girl.png": "/NHTPhuong35/static/media/avatar_girl.d68cb99168246e8bfce0.png",
+    "static/media/imgShirtSales.png": "/NHTPhuong35/static/media/imgShirtSales.31311177381886eb9de9.png",
+    "static/media/NguyenHoangThanhPhuong_CV.pdf": "/NHTPhuong35/static/media/NguyenHoangThanhPhuong_CV.1284b3c62dba5006fce6.pdf",
+    "static/media/home-main.svg": "/NHTPhuong35/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/NHTPhuong35/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/imBookstore.png": "/NHTPhuong35/static/media/imBookstore.35ac8bc20d791ff7fa88.png",
+    "static/media/home-bg.jpg": "/NHTPhuong35/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/NHTPhuong35/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/NHTPhuong35/index.html",
+    "main.343a0ccf.css.map": "/NHTPhuong35/static/css/main.343a0ccf.css.map",
+    "main.7d0e4494.js.map": "/NHTPhuong35/static/js/main.7d0e4494.js.map",
+    "415.4d6acbeb.chunk.js.map": "/NHTPhuong35/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/NHTPhuong35/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.343a0ccf.css",
+    "static/js/main.7d0e4494.js"
+  ]
+}
